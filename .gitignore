@@ -1,5 +1,7 @@
 .DS_Store
 public/
 exampleSite/public
-.vscode/
 node_modules/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
